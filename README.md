@@ -1,4 +1,4 @@
-# 🌗 Projeto Tema Claro e Escuro
+# 🌗 Projeto Tema Claro e Escuro MICROSOFT
 
 Este projeto é uma aplicação simples que permite alternar entre os temas **claro** e **escuro** dinamicamente. Utilizando HTML, CSS e JavaScript, o usuário pode alternar os temas ao clicar em um botão.
 
